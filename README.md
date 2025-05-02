@@ -1,13 +1,16 @@
 # HR-Analytics-Dashboard
-Tools Used:
+
+**Objective:**
+Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics dashboard
+
+**Tools Used:**
 
 Power BI
 Power Query
 Dax Query
 
-
-Cleaning and Analyzing using Power Query:
-
+**Cleaning and Analyzing using Power Query:
+**
 Open Excel and connect to your employee data
 Use Power Query to clean and transform the data
 Create a copy template for one sheet in Power Query transformations and apply the same transformations to all sheets
@@ -20,8 +23,8 @@ With DAX Query, we can effectively manipulate and analyze the data to provide in
 Create Measures and columns Using DAX functions such as count, sum function for exploring some clean data for improve dashboard KPI in PowerBI.
 
 
-Power BI Dashboard Visualization:
-
+**Power BI Dashboard Visualization:
+**
 Design the dashboard layout
 Create a measure table to aggregate and display the data using Dax functions
 Use Visulizations for charts and filters for filter dashboard
@@ -30,7 +33,7 @@ Add Month column as Slicer and add some informative KPI.
 Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
 
 
-Conclusion:
+**Conclusion:**
 
 Identified key factors to reduce attrition
 Improved the hiring process
